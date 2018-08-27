@@ -1,2 +1,2 @@
 # LearnJava
-learning Java
+### learning Java by example
